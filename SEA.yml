@@ -38,7 +38,7 @@ theme:
     - announce.dismiss
 
   logo : assets/images/nsf-stackseal-logo-lockup-light.png
-  favicon : https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://arc.ucar.edu/knowledge_base/83853599
+  favicon : assets/images/sea_icon.png
 
   palette:
       scheme: default
