@@ -37,7 +37,7 @@ theme:
     - toc.integrate   # one toc on left only
     - announce.dismiss
 
-  logo : assets/images/nsf-stackseal-logo-lockup-light.png
+  logo : assets/images/NSF-NCAR-UCAR_Logo_Color-White_RGB.png
   favicon : assets/images/sea_icon.png
 
   palette:
